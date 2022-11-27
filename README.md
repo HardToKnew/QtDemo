@@ -3,5 +3,4 @@
 
 #### 项目内容
 
-- [QtTranslate](https://github.com/HardToKnew/QtDemo/QtTranslate)
-
+- [QtTranslate](https://github.com/HardToKnew/QtDemo/tree/main/QtTranslate)
