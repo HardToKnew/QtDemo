@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/help.png</file>
+        <file>images/setting-64.png</file>
+        <file>images/left-right-arrow-48.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,18 @@
+{
+    "ApiType": {
+        "baidu": {
+            "Appid": "Qw1cMyhKP5lO63WMAc/ujIUEW8ndkrQwZrI0OWw8KRM=",
+            "Key": "l464HB7Aom9Y90HZXIcUzp++v/xLEZ57g0VazlDhgXc=",
+            "Url": "http://api.fanyi.baidu.com/api/trans/vip/translate"
+        },
+        "tencent": {
+            "Appid": "CCXa1XJzHaz3VX7ZSiFhpLqAubg0TPoBx2frWpHv4ZAaEYmIpsZWwEvzwDM1+OZ4",
+            "Key": "ZRgO4tOW24tBT222/C/17OJhZt+snRO9FBcuMuJw5fY=",
+            "Url": "http://tmt.tencentcloudapi.com"
+        }
+    },
+    "CurrentApiType": 0,
+    "Encryption": true,
+    "EncryptionTimeType": 0,
+    "HashKey": "tmcoNaWS6f109Hn0iWTw8A=="
+}

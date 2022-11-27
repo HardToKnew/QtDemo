@@ -1,0 +1,18 @@
+{
+    "ApiType": {
+        "baidu": {
+            "Appid": "",
+            "Key": "",
+            "Url": ""
+        },
+        "tencent": {
+            "Appid": "",
+            "Key": "",
+            "Url": ""
+        }
+    },
+    "CurrentApiType": 0,
+    "Encryption": false,
+    "EncryptionTimeType": 0,
+    "HashKey": "t7qIm0MPqbt9s+PmqtQn9A=="
+}
